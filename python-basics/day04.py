@@ -14,5 +14,9 @@ while 1 :
     if b==a :
         print("you are right!")
         break
+    elif b > a :
+        print("大了，再小点！")
+        continue
     else:
-        print("you are wrong!")
+        print("小了，再大点！")
+        continue
