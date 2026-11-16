@@ -18,6 +18,9 @@
 |---|---|---|---|
 | 2026-11-12 | 环境确认，准备 Day 1 | day01 | |
 | 2026-11-13 | 变量、输入输出、数据类型、运算 | day02 | input返回值是string |
+| 2026-11-14 | if/elif/else、比较与逻辑运算符、for/while、range、break/continue | day03、day04 | 在Python中if后不用括号，一般用空格隔开。print函数会默认换行，end参数可以用来设置print函数末尾的值 |
+
+
 
 
 
