@@ -5,6 +5,8 @@ for i in li1:
 print(li1[0])
 print(li1[2])
 print(len(li1))
+for i in range(len(li1)): # range函数如果不设置起点则默认从0开始
+    print(f"{i+1}.",li1[i])
 
 # 算平均分
 li2 = []
